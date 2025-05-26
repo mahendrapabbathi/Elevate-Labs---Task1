@@ -11,3 +11,6 @@ This is a simple and responsive landing page built using HTML5 and CSS3 as part 
 - CSS3
 - Flexbox
 - Media queries
+
+# Deployed the task in Vercel.com
+- Click elevate-labs-task1.vercel.app link if you want live demo
